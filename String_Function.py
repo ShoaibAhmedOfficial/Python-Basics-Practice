@@ -1,0 +1,13 @@
+w="Welcome to Home"
+a=w.lower()
+print(a)
+a=w.upper()
+print(a)
+a=w.title()
+print(a)
+a=w.capitalize()
+print(a)
+a=w.casefold()
+print(a)
+a=w.isalnum()
+print(a)
