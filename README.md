@@ -1,6 +1,7 @@
 # Python-Basics-Practice
-Dates:	A date in Python is not a data type of its own, but we can import a module named datetime to work with dates as date objects.
+This repository contains my initial Python practice files, created during the early phase of my learning journey. The purpose of these files was to build a strong foundation by practicing basic Python concepts and syntax.
 
+Dates:	A date in Python is not a data type of its own, but we can import a module named datetime to work with dates as date objects.
 Dictionary:	Dictionaries are used to store data values in key:value pairs.A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
 Operators:	Operators are used to perform operations on variables and values.
 Membership_Operators:	Membership operators are used to test if a sequence is presented in an object
